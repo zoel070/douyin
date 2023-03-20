@@ -1,4 +1,4 @@
-import './index.css';
+import './index.less'
 
 const PAGE = {
     data: {
@@ -91,4 +91,4 @@ const PAGE = {
     },
 }
 
-PAGE.init();
+PAGE.init()
